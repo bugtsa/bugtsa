@@ -1,8 +1,8 @@
 ### Hi there 👋
-- 🌱 I`m Android developer
-- 📫 Now work on mobile application one is a more popular Russian bank
-- 🔭 Developing pet-project for personal finance accounting 
-- 🤔 Interesting team-managment, product-analysis, data-analysis
+- 🌱  I`m Android developer
+- 📫  Now work on mobile application one is a more popular Russian bank
+- 🔭  Developing pet-project for personal finance accounting 
+- 🤔  Interesting team-managment, product-analysis, data-analysis
 
 <!--
 **bugtsa/bugtsa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
