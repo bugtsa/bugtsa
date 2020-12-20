@@ -1,9 +1,9 @@
 ### Hi there 👋
-- 🌱  I`m Android developer
-- 📫  Now work on mobile application one is a most popular Russian bank
-- ⚡ Like: Kotlin, Clean Arch, Spring
-- 🔭  Developing pet-project for personal finance accounting 
-- 🤔  Interesting team-managment, product-analysis, data-analysis
+- 🌱 I`m Android developer
+- 📫 Now I working on a mobile application one is the most popular Russian bank
+- ⚡ Like: Kotlin, Clean Architecture, Spring
+- 🔭 I`m developing pet-project for personal finance accounting
+- 🤔 I`m interesting team-management, product-analysis, data-analysis
 
 <!--
 **bugtsa/bugtsa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
