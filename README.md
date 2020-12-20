@@ -1,6 +1,7 @@
 ### Hi there 👋
 - 🌱  I`m Android developer
 - 📫  Now work on mobile application one is a most popular Russian bank
+- ⚡ Like: Kotlin, Clean Arch, Spring
 - 🔭  Developing pet-project for personal finance accounting 
 - 🤔  Interesting team-managment, product-analysis, data-analysis
 
